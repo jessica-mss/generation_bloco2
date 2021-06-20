@@ -1,0 +1,1 @@
+select * from tb_empregados where salario > 2000

@@ -1,0 +1,1 @@
+update tb_empregados set cargo = "Marketing Assistant" where id = 3;
