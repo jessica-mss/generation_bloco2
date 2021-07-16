@@ -27,6 +27,10 @@ public class Usuario {
 	@Size(min = 5, max = 100)
 	private String senha;
 
+	public Usuario(String string, String string2, String string3) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public long getId() {
 		return id;
 	}
@@ -57,6 +61,11 @@ public class Usuario {
 
 	public void setSenha(String senha) {
 		this.senha = senha;
+	}
+
+	public Object getEmail() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 	
 }

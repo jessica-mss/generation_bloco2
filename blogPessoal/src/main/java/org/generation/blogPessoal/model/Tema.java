@@ -31,6 +31,10 @@ public class Tema {
 	
 	
 	
+	public Tema(String string) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public long getId() {
 		return id;
 	}

@@ -40,6 +40,12 @@ public class Postagem {
 	private Tema tema;
 	
 	
+	public Postagem(String string) {
+		// TODO Auto-generated constructor stub
+	}
+	public Postagem(String string, String string2) {
+		// TODO Auto-generated constructor stub
+	}
 	public long getId() {
 		return id;
 	}
